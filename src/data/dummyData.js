@@ -5,7 +5,6 @@ import randall from "../assets/avatars/4.jpg";
 import kristinge from "../assets/avatars/5.jpg";
 
 export const searchData = [
-  // "Drib" search results
   {
     id: 1,
     type: "person",
